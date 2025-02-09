@@ -1,5 +1,4 @@
 pandas== 1.5.3
-tensorflow==2.13.0
 numpy==1.23.5
 pickle-mixin==1.0.2
 keras==2.13.1
@@ -10,3 +9,5 @@ matplotlib==3.7.0
 plotly==5.9.0
 yfinance==0.2.36
 streamlit-option-menu==0.3.2
+tensorflow==2.12.0
+
